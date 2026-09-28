@@ -1,3 +1,6 @@
 <resources>
     <string name="ocebv_app_name">Apex Caster</string>
+    <string name="app_name">Apex Caster</string>
+    <string name="company_name">Bitter Lake Retail LLC</string>
+    <string name="customer_support_url">http://bitterlaakeretail.info</string>
 </resources>
