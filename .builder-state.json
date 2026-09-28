@@ -1,0 +1,23 @@
+{
+  "phase": "scaffold_cloned",
+  "updated_at": "2026-09-28T10:24:25.395702+00:00",
+  "slug": "apex-caster",
+  "template": "sport-tracker",
+  "type": "sport-tracker",
+  "package": "bitter.apexcaster.info",
+  "ocebv": "OCEBV",
+  "app_name": "Apex Caster",
+  "task_gid": "1218927773183472",
+  "task_name": "Unique| 1.1 Constructor [USA Gmail C8] Apex Casino",
+  "asana_url": "https://app.asana.com/1/1208304498069546/project/1213942668689495/task/1218927773183472",
+  "domain": "http://bitterlaakeretail.info",
+  "company": "Bitter Lake Retail LLC",
+  "business_context": "Специфика компании — розничная торговля товарами повседневного спроса: бытовая химия, личная гигиена, снеки и напитки, товары для дома. Приложение по продаже товаров компании, содержит список всех товаров (с возможностью сортировки по категориям: уход, еда, дом и др.). История покупок. Корзина товаров с формой бронирования заказа. После подтверждения бронирования пользователь видит баннер с информацией о номере и деталях заказа с уведомлением о том, что его ожидают в магазине в течение 24 часов. Настройки должны содержать информацию о: названии компании, версии приложения, линку Customers Support со ссылкой на сайт компании.\n(можно разнообразить главную страницу каруселью с акциями, новинками или лайфхаками по организации быта)",
+  "industry": "Bitter Lake Retail redefines convenience in retail",
+  "concept_hint": "",
+  "source_task_gid": "1213488511461945",
+  "source_task_url": "https://app.asana.com/1/1208304498069546/project/1213598919743896/task/1213488511461945?focus=true",
+  "repo_url": "https://github.com/ArtCode379/apex-caster",
+  "quality_status": "not_run",
+  "build_status": "not_run"
+}
