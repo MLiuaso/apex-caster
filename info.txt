@@ -1,0 +1,5 @@
+vApp name: Apex Caster
+Bundle: bitter.apexcaster.info
+
+Keystore password: LpV7JrN3xF964QsT
+Key password: LpV7JrN3xF964QsT

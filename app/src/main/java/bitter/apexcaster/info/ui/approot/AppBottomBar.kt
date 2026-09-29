@@ -16,20 +16,7 @@ import androidx.compose.runtime.getValue
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavDestination
 
-@Composable
-fun AppBottomBar(
-    items: List<BottomNavItem>,
-    currentDestination: NavDestination?,
-    onNavigateToRoute: (BottomNavItem) -> Unit,
-) {
-    //[@AGENT][Floating bottom navigation bar. Not a Material NavigationBar — build it by hand:
-    // a strongly rounded `surface` pill with a hairline gradient `outline` border, a soft
-    // blurred glow behind it and a brighter highlight accent. It must sit inside
-    // windowInsetsPadding(WindowInsets.navigationBars) with an inset margin so it floats clear
-    // of the system navigation bar. Distribute the items evenly and render each with
-    // AppBottomBarItem, marking one selected when
-    // currentDestination.matchesAnyRoute(listOf(item.route::class)) is true.]
-}
+
 
 @Composable
 private fun AppBottomBarItem(
